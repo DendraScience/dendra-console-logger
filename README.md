@@ -14,8 +14,3 @@ Defines a logger class that wraps built-in console methods. Setting the logger's
 4. Install modules via `npm install`.
 
 5. If all goes well, you should be able to run the predefined package scripts.
-
-
-## TODO
-
-- [ ] Write tests

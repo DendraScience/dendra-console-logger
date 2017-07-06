@@ -58,3 +58,4 @@ exports.default = new Logger({
     warn: console.warn
   }
 });
+module.exports = exports['default'];
